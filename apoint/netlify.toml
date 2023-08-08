@@ -1,0 +1,4 @@
+[[redirects]]
+from = 'https://bookib.onrender.com/api/*
+to = '/index.html'
+status = 200
